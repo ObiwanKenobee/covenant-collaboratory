@@ -1,4 +1,4 @@
-import { Shield, Scale, Tree } from "lucide-react";
+import { Shield, Scale, Trees } from "lucide-react";
 import { Card } from "@/components/ui/card";
 
 const features = [
@@ -15,7 +15,7 @@ const features = [
   {
     name: "Stewardship Initiatives",
     description: "Projects promoting responsible AI use and environmental care",
-    icon: Tree,
+    icon: Trees,
   },
 ];
 
